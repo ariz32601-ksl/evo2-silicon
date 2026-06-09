@@ -1,0 +1,12 @@
+# Ignore Models
+*.pt
+*.bin
+*.safetensors
+
+# Ignore Mac System Files
+.DS_Store
+
+# Ignore Python Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

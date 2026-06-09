@@ -1,0 +1,7 @@
+torch>=2.0.0
+torchvision
+huggingface_hub
+einops
+gradio
+transformers
+scipy
