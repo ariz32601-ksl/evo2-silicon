@@ -21,7 +21,8 @@ Upstream releases of Arc Institute's [Evo2](https://github.com/ArcInstitute/evo2
 
 ```bash
 pip install -r requirements.txt
-python3 app.py```
+python3 app.py
+```
 
 ## Verification Prompt (Cas9 Scaffold Sequence)
 GTTTTAGAGCTAGAAATAGCAAGTTAAAATAAGGCTAGTCCGTTATCAACTTGAAAAAGTGGCACCGAGTCGGTGCTTT
