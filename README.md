@@ -32,18 +32,3 @@ Apple Mac Studio (M3 Ultra)    256 GB            evo2_7b  bfloat16    ~0.75 s / 
 
 ## License
 Released under the Apache-2.0 License.
-
-2. Click **Add file $\rightarrow$ Create new file**, name it **`CITATION.cff`**, and paste:
-
-```yaml
-cff-version: 1.2.0
-message: "If you use this software, please cite it using the metadata below."
-title: "evo2-silicon: Native Apple Silicon (MPS) Loader for Evo2"
-type: software
-authors:
-  - family-names: Tang
-    given-names: Chun
-    orcid: "https://orcid.org/0009-0008-4128-2071"
-repository-code: "https://github.com/ariz32601-ksl/evo2-silicon"
-license: Apache-2.0
-date-released: "2026-06-09"
