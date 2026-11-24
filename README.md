@@ -25,11 +25,17 @@ python3 app.py
 ```
 
 ## Verification Prompt (Cas9 Scaffold Sequence)
+
+```text
 GTTTTAGAGCTAGAAATAGCAAGTTAAAATAAGGCTAGTCCGTTATCAACTTGAAAAAGTGGCACCGAGTCGGTGCTTT
+```
 
 ## Reference Throughput
-Hardware                       Unified Memory    Model    Precision   Latency
-Apple Mac Studio (M3 Ultra)    256 GB            evo2_7b  bfloat16    ~0.75 s / sequence
+
+| Hardware | Unified Memory | Model | Precision | Latency |
+| :--- | :--- | :--- | :--- | :--- |
+| Apple Mac Studio (M3 Ultra) | 256 GB | `evo2_7b` | `bfloat16` | ~0.75 s / sequence |
 
 ## License
-Released under the Apache-2.0 License.
+
+Released under the [Apache-2.0 License](LICENSE).
